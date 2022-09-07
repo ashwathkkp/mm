@@ -138,7 +138,7 @@ adf_check(df_testing.Value.dropna())
 df_testing.plot()
 
 ACF = plot_acf(df_testing.dropna(),lags=50)
-PACF = plot_pacf(df_testing.dropna(),lags=50)
+PACF = plot_pacf(df_testing.dropna(),lags=20)
 
 """#Step 2 : Fitting AR Model
 
