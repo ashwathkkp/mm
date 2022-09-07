@@ -1,0 +1,13 @@
+arima.py
+cubic.py
+deseasonalize.py
+divided.py
+forward.py
+lagrange.py
+linear.py
+log.py
+multiple.py
+power.py
+r2.py
+trendanalysis.py
+ttest.py
