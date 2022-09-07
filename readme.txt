@@ -11,3 +11,4 @@ power.py
 r2.py
 trendanalysis.py
 ttest.py
+arima_harry.py
