@@ -13,3 +13,9 @@ trendanalysis.py
 ttest.py
 arima_harry.py
 arima_scratch.py
+
+classical.py
+dynamic_nosetup.py
+dynamic_setup.py
+portfolio.py
+pricebreak.py
