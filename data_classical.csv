@@ -1,0 +1,5 @@
+Demand,SetupCost,HoldingCost,AdditionalCost,LeadTime
+25,120,0.04,null,35
+35,80,0.03,null,35
+50,100,0.02,null,35
+25,110,0.03,null,35
