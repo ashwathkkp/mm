@@ -34,6 +34,7 @@ rungekutta.py - use this for solving first order differential eqns
 simpson.py - use this for definite integral
 trapezoidal.py - use this for definite integral
 predcorr.py - Predictor Corrector
+newtonforwarddiff.py - use this both forward and backwaard differentiation. If this doesn't work use netwon foward interpolation or divided.
 
 6. Bioinfo
 needleman.py
