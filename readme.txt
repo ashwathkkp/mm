@@ -1,23 +1,36 @@
-arima.py
-cubic.py
-deseasonalize.py
+1. Interpolation
 divided.py
 forward.py
 lagrange.py
-linear.py
-log.py
-multiple.py
-power.py
+cubic.py
+
+2. Time series
+linear.py - linear regression
+log.py - logarithim regression
+multiple.py - multiple regression
+power.py - exp regression
+arima.py - (pip install statsmodels first)
+deseasonalize.py - remove seasonality
 r2.py
-trendanalysis.py
+trendanalysis.py - t
 ttest.py
 arima_harry.py
 arima_scratch.py
 
-classical.py
+3. Inventorry models
+classical.py - simple eoq
 dynamic_nosetup.py
 dynamic_setup.py
-portfolio.py
 pricebreak.py
-portfolio_krishna.py
 multiitem.py
+
+4. Portfolio
+portfolio.py - expected return and variance
+portfolio_krishna.py - this has variance of portfolio calculation
+
+5. Numerical methods
+euler
+rangekutta
+simpson
+trapezoidal
+predcorr - Predictor Corrector
