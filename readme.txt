@@ -29,11 +29,15 @@ portfolio.py - expected return and variance
 portfolio_krishna.py - this has variance of portfolio calculation
 
 5. Numerical methods
-euler.py
-rungekutta.py
-simpson.py
-trapezoidal.py
+euler.py - use this for solving first order differential eqns
+rungekutta.py - use this for solving first order differential eqns
+simpson.py - use this for definite integral
+trapezoidal.py - use this for definite integral
 predcorr.py - Predictor Corrector
+
+6. Bioinfo
+needleman.py
+waterman.py
 
 
 Other files
