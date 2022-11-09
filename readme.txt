@@ -9,12 +9,12 @@ linear.py - linear regression
 log.py - logarithim regression
 multiple.py - multiple regression
 power.py - exp regression
-arima.py - (pip install statsmodels first)
+arima_harry.py - use this for arima and it has plots too acf -> q and pacf->p
 deseasonalize.py - remove seasonality
 r2.py
 trendanalysis.py - t
 ttest.py
-arima_harry.py
+arima.py - (pip install statsmodels first)
 arima_scratch.py
 
 3. Inventorry models
