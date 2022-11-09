@@ -37,4 +37,4 @@ predcorr - Predictor Corrector
 
 
 Other files
-* https://github.com/NanaKrish/mm2
+* https://raw.githubusercontent.com/NanaKrish/MM2/main/readme
