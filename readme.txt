@@ -29,11 +29,11 @@ portfolio.py - expected return and variance
 portfolio_krishna.py - this has variance of portfolio calculation
 
 5. Numerical methods
-euler
-rungekutta
-simpson
-trapezoidal
-predcorr - Predictor Corrector
+euler.py
+rungekutta.py
+simpson.py
+trapezoidal.py
+predcorr.py - Predictor Corrector
 
 
 Other files
