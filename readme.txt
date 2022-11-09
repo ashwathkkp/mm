@@ -34,3 +34,7 @@ rangekutta
 simpson
 trapezoidal
 predcorr - Predictor Corrector
+
+
+Other files
+* https://github.com/NanaKrish/mm2
