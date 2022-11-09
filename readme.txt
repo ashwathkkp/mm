@@ -30,7 +30,7 @@ portfolio_krishna.py - this has variance of portfolio calculation
 
 5. Numerical methods
 euler
-rangekutta
+rungekutta
 simpson
 trapezoidal
 predcorr - Predictor Corrector
